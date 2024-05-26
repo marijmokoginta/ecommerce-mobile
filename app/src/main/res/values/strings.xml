@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">e-Commerce</string>
+    <string name="submit">Submit</string>
+    <string name="e_commerce">e-Commerce</string>
+    <string name="nama_lengkap">nama lengkap</string>
+    <string name="nim">nim</string>
+    <string name="jenis_kelamin">jenis kelamin :</string>
+    <string name="please_fill_in_the_following_data">please fill in the following data:</string>
+    <string name="solutions_for_your_needs">solutions for your needs</string>
+    <string name="from_meta">from Meta</string>
+    <string name="keep_coding_and_stay_awesome">keep coding and stay awesome</string>
+    <string name="marijmokoginta_io">© marijmokoginta.io</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detail_pesanan">Detail Pesanan</string>
+    <string name="bayar">Bayar</string>
+    <string name="your_order_succesfully">Your Order Succesfully!</string>
+</resources>
